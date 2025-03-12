@@ -28,8 +28,8 @@ function App() {
   return (
     <div className="App">
       <h1>Midu subs</h1>
-      <List subs={subs} />
       <Form onNewSub={setSubs} />
+      <List subs={subs} />
     </div>
   );
 }
