@@ -13,7 +13,7 @@ const INITIAL_STATE = [
   },
   {
     nick: "sergio_serrano",
-    subMonths: 7,
+    subMonths: 8,
     avatar: "https://i.pravatar.cc/150?u=sergio_serrano",
   },
 ];
